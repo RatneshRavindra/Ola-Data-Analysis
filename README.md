@@ -19,19 +19,19 @@ This repository features an interactive Power BI Dashboard created for analyzing
 ### Reports :
 
 #### 1. Overall Analysis
-<img width="769" alt="SS1" src="https://drive.google.com/file/d/1S31Sh-Qng1GP9Y6rrdvXVsWZCACOReGF/view?usp=sharing" />
+<img width="769" alt="SS1" src="https://github.com/RatneshRavindra/Ola-Data-Analysis/blob/f4888bec32f9130db68413407f075ecfae1587b5/SS1.png" />
 
 #### 2. Vehicle Type
-<img width="891" alt="SS2" src="https://drive.google.com/file/d/1oDxLxzdaN_cVt3_uwifobE0WLEXmfzNh/view?usp=sharing" />
+<img width="891" alt="SS2" src="https://github.com/RatneshRavindra/Ola-Data-Analysis/blob/f4888bec32f9130db68413407f075ecfae1587b5/SS2.png" />
 
 #### 3. Revenue
-<img width="859" alt="SS3" src="https://drive.google.com/file/d/1DH9nEt9hO6hDVYgMW1mjM3r9i4GVBRg0/view?usp=sharing" />
+<img width="859" alt="SS3" src="https://github.com/RatneshRavindra/Ola-Data-Analysis/blob/f4888bec32f9130db68413407f075ecfae1587b5/SS3.png" />
 
 #### 4. Cancellation 
-<img width="768" alt="SS4" src="https://drive.google.com/file/d/1srhK9AVRfecG97vlWvdCMGWFcpM1h-bg/view?usp=sharing" />
+<img width="768" alt="SS4" src="https://github.com/RatneshRavindra/Ola-Data-Analysis/blob/f4888bec32f9130db68413407f075ecfae1587b5/SS4.png" />
 
 #### 5. Ratings 
-<img width="770" alt="SS5" src="https://drive.google.com/file/d/1HSQ_hmngVTo0mlp_E4rXcRxtoPP_f3bj/view?usp=sharing" />
+<img width="770" alt="SS5" src="https://github.com/RatneshRavindra/Ola-Data-Analysis/blob/f4888bec32f9130db68413407f075ecfae1587b5/SS5.png" />
 
 
 ### Tools :
